@@ -31,4 +31,6 @@
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 ![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
 
+![Diego Sanchez GitHub stats](https://github-readme-stats.vercel.app/api?username=SanchezD1998&show_icons=true&theme=dark)
+
 ⭐️ From [Diego Sanchez](https://github.com/SanchezD1998)
