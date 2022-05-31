@@ -1,4 +1,4 @@
-<img src="https://wallpapercave.com/wp/wp3284841.gif" width="500" height="500"/>
+<img src="https://wallpapercave.com/wp/wp3284841.gif" width="1000" height="300"/>
 ---
 ##### Hola👋, soy Diego Alonso Sanchez:
 
