@@ -1,4 +1,4 @@
-![Header](https://wallpapercave.com/wp/wp3284841.gif?height=100)
+![Header](https://wallpapercave.com/wp/wp3284841.gif?height=50)
 ---
 ##### Hola👋, soy Diego Alonso Sanchez:
 
