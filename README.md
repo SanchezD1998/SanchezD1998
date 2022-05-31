@@ -32,6 +32,9 @@
 ![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
 
 ![Diego Sanchez GitHub stats](https://github-readme-stats.vercel.app/api?username=SanchezD1998&show_icons=true&theme=tokyonight&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanchezD1998&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+#####
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanchezD1998&layout=compact)](https://github.com/SanchezD1998/github-readme-stats)
 
 ⭐️ From [Diego Sanchez](https://github.com/SanchezD1998)
