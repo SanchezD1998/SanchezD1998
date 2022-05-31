@@ -35,6 +35,6 @@
 
 #####
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanchezD1998&layout=compact&bg_color=#000000&theme=tokyonight)](https://github.com/SanchezD1998/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanchezD1998&layout=compact&bg_color=#17202A)](https://github.com/SanchezD1998/github-readme-stats)
 
 ⭐️ From [Diego Sanchez](https://github.com/SanchezD1998)
